@@ -9,4 +9,3 @@ read -s PASSWORD
 
 echo "Username is: $USERNAME, Password is: $PASSWORD" # I am priting just for validation, you should not print username and passwords in scripts
 
-gjgjg
